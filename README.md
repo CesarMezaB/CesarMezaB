@@ -8,5 +8,5 @@ console.log("Hello 🌎")
 - 😉 Favorite technology: JavaScript
 
 ```javascript
- const code: ["Javascript","HTML", "CSS"];
+ const code = ["Javascript","HTML", "CSS"];
 ```
